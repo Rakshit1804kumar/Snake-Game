@@ -101,7 +101,8 @@ Open index.html in your browser, or run a simple server (optional):
   
 ## Author
 
-**Made by ❤️ by Rakshit Kumar(https://github.com/Rakshit1804kumar)**  
+**Made with ❤️ by [Rakshit Kumar](https://github.com/Rakshit1804kumar)**
+  
 
 Feel free to contact me for suggestions, issues, or contributions!
 
