@@ -20,12 +20,13 @@ A classic Snake Game implemented in HTML, CSS, and JavaScript. Control the snake
 
 ---
 
-## Features
+## ✨ Features## Features
 
-- Simple and intuitive gameplay  
-- Sound effects for moves, eating food, and game over  
-- Responsive design (works across desktop / mobile browsers)  
-- Clean visuals with a background image  
+- 🐍 Simple and intuitive gameplay  
+- 🎵 Sound effects for moves, eating food, and game over  
+- 📱 Responsive design for desktop and mobile  
+- 🎨 Clean visuals with background image  
+ 
 
 ---
 
@@ -48,7 +49,7 @@ You can try out the game live at:
 
 ---
 
-## How to Play
+##  🚀 How to Play
 
 1. Open the game in your browser.  
 2. Use the **arrow keys** (↑, ↓, ←, →) to move the snake.  
@@ -76,3 +77,41 @@ open index.html
 # E.g., using Python:
 python3 -m http.server 8000
 # Then visit http://localhost:8000 in your browser
+
+
+
+## File Structure
+Snake-Game/
+├── index.html # Main HTML file
+├── style.css # Styles for the game
+├── index.js # Game logic & interactivity
+├── bg.jpg # Background image
+├── food.mp3 # Sound when eating food
+├── move.mp3 # Sound for movement
+└── gameover.mp3 # Sound when game ends
+
+
+
+---
+
+🔮 Future Enhancements
+
+        ⏱ Add levels with increasing speed
+
+       🏆 Implement a scoreboard / persistent high score (localStorage or backend)
+
+       🎨 Add more themes / skins (snake colors, backgrounds)
+
+       📱 Touch controls for mobile devices
+
+       ⚡ Improve collision detection and animations
+
+---
+
+  
+## Author
+
+**Made by ❤️ by Rakshit Kumar(https://github.com/Rakshit1804kumar)**  
+
+Feel free to contact me for suggestions, issues, or contributions!
+
