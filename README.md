@@ -59,54 +59,42 @@ You can try out the game live at:
 
 ---
 
-## Setup & Installation
+ ## 🚀 Getting Started
 
-If you want to run or modify the project locally:
+Clone the repository:
 
-```bash
-# Clone the repository
-git clone https://github.com/Rakshit1804kumar/Snake-Game.git
+           ```bash
+           git clone https://github.com/Rakshit1804kumar/Snake-Game.git
+           cd Snake-Game
 
-# Move into the project folder
-cd Snake-Game
-
-# Open index.html in your browser
-open index.html
-
-# Or run a simple server (optional but useful for local dev/testing)
-# E.g., using Python:
-python3 -m http.server 8000
-# Then visit http://localhost:8000 in your browser
+Open index.html in your browser, or run a simple server (optional):
+          
+          # Using Python
+          python3 -m http.server 8000
+          # Then visit http://localhost:8000
 
 
+📂 File Structure
 
-## File Structure
-Snake-Game/
-├── index.html # Main HTML file
-├── style.css # Styles for the game
-├── index.js # Game logic & interactivity
-├── bg.jpg # Background image
-├── food.mp3 # Sound when eating food
-├── move.mp3 # Sound for movement
-└── gameover.mp3 # Sound when game ends
-
-
-
----
-
+          Snake-Game/
+               ├── index.html       # Main HTML file
+               ├── style.css        # Styles for the game
+               ├── index.js         # Game logic & interactivity
+               ├── bg.jpg           # Background image
+               ├── food.mp3         # Sound when eating food
+               ├── move.mp3         # Sound for movement
+               └── gameover.mp3     # Sound when game ends
 🔮 Future Enhancements
 
-        ⏱ Add levels with increasing speed
+   ⏱ Add levels with increasing speed
 
-       🏆 Implement a scoreboard / persistent high score (localStorage or backend)
+  🏆 Implement a scoreboard / persistent high score (localStorage or backend)
 
-       🎨 Add more themes / skins (snake colors, backgrounds)
+  🎨 Add more themes / skins (snake colors, backgrounds)
 
-       📱 Touch controls for mobile devices
+  📱 Touch controls for mobile devices
 
-       ⚡ Improve collision detection and animations
-
----
+  ⚡ Improve collision detection and animations 
 
   
 ## Author
