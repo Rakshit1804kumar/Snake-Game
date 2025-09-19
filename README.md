@@ -38,7 +38,7 @@ You can try out the game live at:
 
 ## 📸 Screenshot
 
-![Snake Game Screenshot](https://github.com/Rakshit1804kumar/Snake-Game/raw/main/screenshots/snake-game.png)
+![Snake Game Screenshot](https://github.com/Rakshit1804kumar/Snake-Game/blob/main/screenshot.png)
 
 
 ---
