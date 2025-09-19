@@ -87,17 +87,16 @@ Open index.html in your browser, or run a simple server (optional):
                ├── food.mp3         # Sound when eating food
                ├── move.mp3         # Sound for movement
                └── gameover.mp3     # Sound when game ends
-🔮 Future Enhancements
 
-   ⏱ Add levels with increasing speed
 
-  🏆 Implement a scoreboard / persistent high score (localStorage or backend)
+ ## 🔮 Future Enhancements
 
-  🎨 Add more themes / skins (snake colors, backgrounds)
+- ⏱ Add levels with increasing speed
+- 🏆 Implement a scoreboard / persistent high score (localStorage or backend)
+- 🎨 Add more themes / skins (snake colors, backgrounds)
+- 📱 Touch controls for mobile devices
+- ⚡ Improve collision detection and animations
 
-  📱 Touch controls for mobile devices
-
-  ⚡ Improve collision detection and animations 
 
   
 ## Author
