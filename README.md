@@ -36,7 +36,10 @@ You can try out the game live at:
 
 [Snake Game Live](https://rakshit1804kumar.github.io/Snake-Game/)
 
-/screenshots or gif could go here if you have them (e.g. gameplay, menu screen) —
+## 📸 Screenshot
+
+![Snake Game Screenshot](https://github.com/Rakshit1804kumar/Snake-Game/raw/main/screenshots/snake-game.png)
+
 
 ---
 
